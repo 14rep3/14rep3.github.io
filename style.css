@@ -29,7 +29,7 @@ header{
 
 /* コンテンツごとの見出しの設定 */
 h2{
-    font-size: 2rem;
+    font-size: 300%;
     text-align: center;
     margin-bottom: 3rem;
 }
@@ -46,7 +46,7 @@ h2{
 }
 
 .zoom-text{
-  font-size: 100%;
+  font-size: 170%;
   margin-right: 50px;
   text-align: center;
 }
@@ -71,7 +71,7 @@ h2{
 }
 
 .couse-text{
-  font-size: 100%;
+  font-size: 170%;
   margin-left: 50px;
   text-align: center;
 }
@@ -89,7 +89,7 @@ h2{
 }
 
 .youtube-text{
-  font-size: 100%;
+  font-size: 170%;
   margin-right: 50px;
   text-align: center;
 }
